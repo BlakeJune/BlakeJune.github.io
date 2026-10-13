@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 100" width="480" height="100">
+  <rect width="480" height="100" rx="22" fill="#0f0f0f"/>
+  <text x="32" y="73" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="70" fill="#ffffff">Blake June</text>
+  <circle cx="440" cy="68" r="5.5" fill="#4db8e8"/>
+</svg>
